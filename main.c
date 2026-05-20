@@ -33,3 +33,6 @@ int main(void)
         Delay(100);
     }
 }
+
+//komentarz jako zmiana do gita
+
