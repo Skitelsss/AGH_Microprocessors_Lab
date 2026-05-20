@@ -35,4 +35,4 @@ int main(void)
 }
 
 //komentarz jako zmiana do gita
-
+//git test
